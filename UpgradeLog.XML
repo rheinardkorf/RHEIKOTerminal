@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RHEIKOTerminal">
+</Property><Property Name="Solution File" Value="R:\1GB Stick\Personal\wavecom\RHEIKOTerminal.sln">
+</Property><Property Name="User Options File" Value="R:\1GB Stick\Personal\wavecom\RHEIKOTerminal.suo">
+</Property><Property Name="Date" Value="Friday, 27 June 2008">
+</Property><Property Name="Time" Value="10:36 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RHEIKOTerminal.sln" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RHEIKOTerminal.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RHEIKOTerminal.suo" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RHEIKOTerminal.suo">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RHEIKOTerminal.vbproj" Description="Project file successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RHEIKOTerminal.vbproj">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RHEIKOTerminal.vbproj.user" Description="Project user file successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RHEIKOTerminal.vbproj.user">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="AssemblyInfo.vb" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="Rs232.vb" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\Rs232.vb">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RTerm.vb" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RTerm.vb">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RTerm.resx" Description="File successfully backed up as R:\1GB Stick\Personal\wavecom_bak\Backup\RTerm.resx">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RHEIKOTerminal.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RHEIKOTerminal" Source="RHEIKOTerminal.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RHEIKOTerminal.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RHEIKOTerminal.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RHEIKOTerminal" Source="RHEIKOTerminal.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
